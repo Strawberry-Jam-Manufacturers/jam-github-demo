@@ -51,7 +51,7 @@ let facts = [
 		accordianText: "🧐🤓💊🍽",
 	},
 	{
-		title: "How much jam is there?",
+		title: "How much jam out there?",
 		body: "US produces about 1 billion pounds every year.",
 		accordianText: "⚖️🍓🎉",
 	},
